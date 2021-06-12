@@ -1,0 +1,1 @@
+(('Hello everyone'.lower()).upper())
